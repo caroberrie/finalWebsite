@@ -1,0 +1,4 @@
+[06-Dec-2020 17:23:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function rollback() in /home/30/lmsnyder04/public_html/e_commerce/Caroline Snyder/includes/account_info.inc.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/30/lmsnyder04/public_html/e_commerce/Caroline Snyder/includes/account_info.inc.php on line 10
